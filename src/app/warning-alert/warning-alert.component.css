@@ -1,5 +1,14 @@
 p {
-  padding: 20px;
-  background-color: mistyrose;
-  border: 1px solid red;
+  border: 2px solid darkred;
+  border-top-width: 20px;
+  color:white;
+  font-weight:bold;
+  background:red;
+  box-shadow:2px 4px 6px #000000;
+  text-align:center;
+  width:400px;
+  padding:20px;
+  position:relative;
+  top:1px;
+  margin: 15px auto auto;
 }
